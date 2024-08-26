@@ -1,6 +1,15 @@
 @font-face {
   font-family: "Geist";
-  src: url("./assets/fonts/GeistVF.ttf") format("truetype"),
+  src:
+    url("./assets/fonts/GeistVF.ttf") format("truetype"),
     url("./assets/fonts/GeistVF.woff") format("woff"),
     url("./assets/fonts/GeistVF.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "GeistMono";
+  src:
+    url("./assets/fonts/GeistMonoVF.ttf") format("truetype"),
+    url("./assets/fonts/GeistMonoVF.woff") format("woff"),
+    url("./assets/fonts/GeistMonoVF.woff2") format("woff2");
 }
