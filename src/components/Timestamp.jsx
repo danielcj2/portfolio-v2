@@ -25,7 +25,7 @@ const Timestamp = () => {
         <p className="font-geist-mono text-text-muted text-xs text-opacity-80">
           {time}
           <span className="mx-1 text-opacity-50">&#8226;</span>
-          EST
+          <span className="font-semibold">EST</span>
         </p>
       </div>
       <CNtower />
